@@ -3,8 +3,6 @@
 
 <p align="left"> <a href="https://twitter.com/general_quota" target="blank"><img src="https://img.shields.io/twitter/follow/general_quota?logo=twitter&style=for-the-badge" alt="general_quota" /></a> </p>
 
-- 🔭 I’m currently working on **a Number Guessing Game**
-
 - 🌱 I’m currently learning **AI & ML**
 
 - 👯 I’m looking to collaborate on **Flutter Projects**
