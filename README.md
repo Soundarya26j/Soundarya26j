@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **jhasoundarya@gmail.com**
 
-- ⚡ Fun fact **I have a great sense of humor and I'm a huge swiftie**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/general_quota" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="general_quota" height="30" width="40" /></a>
