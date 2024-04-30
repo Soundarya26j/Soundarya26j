@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Soundarya</h1>
 <h3 align="center">A passionate Flutter developer from India as well as AI & ML enthusiast.</h3>
 
-<p align="left"> <a href="https://twitter.com/general_quota" target="blank"><img src="https://img.shields.io/twitter/follow/general_quota?logo=twitter&style=for-the-badge" alt="general_quota" /></a> </p>
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://linkedin.com/in/soundarya .)
-
 - 🔭 I am currently doing Bachelors in Computer Science and Engineering.
   
 - 🌱 I’m currently learning **AI & ML**
