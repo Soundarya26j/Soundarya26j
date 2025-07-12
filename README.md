@@ -5,7 +5,7 @@
   
 - 🌱 I’m currently learning **AI & ML**
 
-- 👯 I’m looking to collaborate on **Flutter Projects**
+- 👯 I’m looking to collaborate on **Flutter Projects or Artificial Intelligence and Machine Learning Projects**
 
 - 📫 How to reach me **jhasoundarya@gmail.com**
 
