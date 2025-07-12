@@ -3,7 +3,7 @@
 
 - 🔭 I am currently doing Bachelors in Computer Science and Engineering.
   
-- 🌱 I’m currently learning **AI & ML**
+- 🌱 I’m currently working on **AI & ML Projects**
 
 - 👯 I’m looking to collaborate on **Flutter Projects or Artificial Intelligence and Machine Learning Projects**
 
